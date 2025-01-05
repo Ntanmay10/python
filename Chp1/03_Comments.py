@@ -1,6 +1,6 @@
 print("Comments in python")
 
-# This is an example single line comment in python
+# This is an example of single line comment in python
 
 '''
 This is an example of triple single quote,
