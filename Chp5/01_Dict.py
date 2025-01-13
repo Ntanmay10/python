@@ -1,7 +1,7 @@
 import os
 os.system("cls")
 
-empty_Dict = {} # This is an empty dictionary
+emptyDict = {} # This is an empty dictionary
 marks = {
     "Tanmay": 96,
     "Chirag": 82,
